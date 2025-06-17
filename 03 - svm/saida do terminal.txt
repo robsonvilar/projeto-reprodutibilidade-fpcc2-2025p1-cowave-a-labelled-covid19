@@ -1,0 +1,18 @@
+C:\Users\robso\AppData\Local\Programs\Python\Python312\python.exe "C:\Users\robso\Desktop\FPCC2\Artigo para reprodutibilidade\Execução dos códigos\Execucao_reproducao\svm\svm.py" 
+Test acc:  0.6470111266273255
+Test rec: 0.14549625694276744
+Test pres: 0.6135437881873728
+
+Train acc:  0.6860623591911662
+Train rec: 0.15379061371841155
+Train pres: 0.7217620481927711
+Fitting 3 folds for each of 16 candidates, totalling 48 fits
+Test acc:  0.6260191900536061
+Test rec: 0.24559285196812364
+Test pres: 0.49755381604696675
+
+Train acc:  0.7714516173893694
+Train rec: 0.39294023265142397
+Train pres: 0.8828406633020909
+
+Process finished with exit code 0
