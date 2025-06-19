@@ -13,7 +13,7 @@ Este projeto utiliza as seguintes bibliotecas em suas versões atuais:
 | `bayesian-optimization`  | 2.0.4            |
 | `xgboost`                | 3.0.2            |
 
-> Todas as bibliotecas foram instaladas via `pip` utilizando o Python 3.12.10 Certifique-se de usar um ambiente virtual para garantir a compatibilidade do ambiente.
+> Todas as bibliotecas foram instaladas via `pip` utilizando o Python 3.12.10.
 
 ---
 
